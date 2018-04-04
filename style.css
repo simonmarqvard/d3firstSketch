@@ -1,0 +1,22 @@
+path {
+   stroke: black;
+   stroke-width: 1px;
+   /* fill: lightgreen; */
+}
+
+/* .state1290:hover {
+   fill: blue;
+} */
+
+
+.state:hover {
+  stroke-width: 3px;
+  fill: green;
+}
+
+
+body {
+  background-color: beige;
+
+
+}
